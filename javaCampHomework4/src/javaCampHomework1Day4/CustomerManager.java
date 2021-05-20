@@ -1,4 +1,4 @@
-package javaCampHomework4;
+package javaCampHomework1Day4;
 
 public class CustomerManager implements ICustomerService{
 
